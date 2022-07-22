@@ -14,6 +14,7 @@
 - Database Engine	
 - Redis		
 - RDB vs Nosql
+- 트랜잭션
 
 ### Operate System
 - 멀티프로세스와 멀티스레드 차이	
@@ -33,6 +34,7 @@
 - spring vs EJB		
 - Spring MVC
 - 본인이 생각하는 스프링의 장점	
+- 트랜잭션
 
 ### Java
 - 접근제한자, 생성자, SOLID	
