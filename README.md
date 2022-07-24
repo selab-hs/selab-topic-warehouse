@@ -8,6 +8,7 @@
 - 로드밸런스
 - IP, TCP, UDP, HTTP	
 - 라우터
+- HTTP vs HTTPS
 
 ### Database
 - DB Index	
@@ -15,6 +16,7 @@
 - Redis		
 - RDB vs Nosql
 - 트랜잭션
+- DDL, DML, DCL
 
 ### Operate System
 - 멀티프로세스와 멀티스레드 차이	
@@ -24,6 +26,7 @@
 - concurrency vs parallelism		
 - 캐시	
 - RAID
+- 스케줄링 기법
 
 ### Spring
 - IOC, DI, AOP	
@@ -35,6 +38,7 @@
 - Spring MVC
 - 본인이 생각하는 스프링의 장점	
 - 트랜잭션
+- filter, intercepter, aop
 
 ### Java
 - 접근제한자, 생성자, SOLID	
@@ -45,6 +49,7 @@
 - Jpa 더티체킹		
 - Jpa 엔티티매니저
 - Jpa 1차 캐시		
+- 오버라이딩 vs 오버로딩
 
 ### Etc
 - GIT	
@@ -53,7 +58,9 @@
 - 객체지향 vs 절차지향	
 - sdk와 api
 - 개발자가 되고 싶은 이유		
+- 좋은 개발자란 무엇일까요
 
 ### Algorithm
 - 정렬
 - 시간 복잡도, 공간 복잠도	
+- 이진 탐색
