@@ -9,6 +9,7 @@
 - IP, TCP, UDP, HTTP	
 - 라우터
 - HTTP vs HTTPS
+- Cookie vs Session
 
 ### Database
 - DB Index	
@@ -27,6 +28,7 @@
 - 캐시	
 - RAID
 - 스케줄링 기법
+- 커널
 
 ### Spring
 - IOC, DI, AOP	
@@ -39,6 +41,7 @@
 - 본인이 생각하는 스프링의 장점	
 - 트랜잭션
 - filter, intercepter, aop
+- spring vs spring boot
 
 ### Java
 - 접근제한자, 생성자, SOLID	
@@ -50,6 +53,7 @@
 - Jpa 엔티티매니저
 - Jpa 1차 캐시		
 - 오버라이딩 vs 오버로딩
+- Java compile 과정
 
 ### Etc
 - GIT	
@@ -59,8 +63,10 @@
 - sdk와 api
 - 개발자가 되고 싶은 이유		
 - 좋은 개발자란 무엇일까요
+- 비IT 동료와 효율적인 의사소통을 하기 위한 방법
 
 ### Algorithm
 - 정렬
 - 시간 복잡도, 공간 복잠도	
 - 이진 탐색
+- tree
