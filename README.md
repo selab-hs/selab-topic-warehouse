@@ -10,6 +10,7 @@
 - 라우터
 - HTTP vs HTTPS
 - Cookie vs Session
+- http 1, 2, 3
 
 ### Database
 - DB Index	
@@ -18,6 +19,7 @@
 - RDB vs Nosql
 - 트랜잭션
 - DDL, DML, DCL
+- sql injection
 
 ### Operate System
 - 멀티프로세스와 멀티스레드 차이	
@@ -29,6 +31,7 @@
 - RAID
 - 스케줄링 기법
 - 커널
+- Critical Section
 
 ### Spring
 - IOC, DI, AOP	
@@ -42,6 +45,7 @@
 - 트랜잭션
 - filter, intercepter, aop
 - spring vs spring boot
+- Dispatcher Servlet 
 
 ### Java
 - 접근제한자, 생성자, SOLID	
@@ -54,6 +58,7 @@
 - Jpa 1차 캐시		
 - 오버라이딩 vs 오버로딩
 - Java compile 과정
+- java version별 차이점
 
 ### Etc
 - GIT	
@@ -64,9 +69,11 @@
 - 개발자가 되고 싶은 이유		
 - 좋은 개발자란 무엇일까요
 - 비IT 동료와 효율적인 의사소통을 하기 위한 방법
+- 다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지
 
 ### Algorithm
 - 정렬
 - 시간 복잡도, 공간 복잠도	
 - 이진 탐색
 - tree
+- 동적 계획법 dp
