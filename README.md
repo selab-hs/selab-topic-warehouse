@@ -11,6 +11,7 @@
 - HTTP vs HTTPS
 - Cookie vs Session
 - http 1, 2, 3
+- cast (broadcast, unicast, multicast 등..)
 
 ### Database
 - DB Index	
@@ -20,6 +21,7 @@
 - 트랜잭션
 - DDL, DML, DCL
 - sql injection
+- 정규화
 
 ### Operate System
 - 멀티프로세스와 멀티스레드 차이	
@@ -32,6 +34,7 @@
 - 스케줄링 기법
 - 커널
 - Critical Section
+- RAID
 
 ### Spring
 - IOC, DI, AOP	
@@ -46,6 +49,7 @@
 - filter, intercepter, aop
 - spring vs spring boot
 - Dispatcher Servlet 
+- maven, gradle
 
 ### Java
 - 접근제한자, 생성자, SOLID	
@@ -60,6 +64,7 @@
 - Java compile 과정
 - java version별 차이점
 - mutable vs immutable
+- 인터페이스와 추상클래스
 
 ### Etc
 - GIT	
@@ -71,6 +76,7 @@
 - 좋은 개발자란 무엇일까요
 - 비IT 동료와 효율적인 의사소통을 하기 위한 방법
 - 다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지
+- java와 c언어의 차이
 
 ### Algorithm
 - 정렬
@@ -78,3 +84,6 @@
 - 이진 탐색
 - tree
 - 동적 계획법 dp
+
+### 디자인 패턴
+- 싱글톤 패턴
