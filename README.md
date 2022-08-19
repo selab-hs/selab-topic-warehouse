@@ -12,6 +12,7 @@
 - Cookie vs Session
 - http 1, 2, 3
 - cast (broadcast, unicast, multicast 등..)
+- ipv4 vs ipv6
 
 ### Database
 - DB Index	
@@ -22,6 +23,7 @@
 - DDL, DML, DCL
 - sql injection
 - 정규화
+- db view
 
 ### Operate System
 - 멀티프로세스와 멀티스레드 차이	
@@ -35,6 +37,7 @@
 - 커널
 - Critical Section
 - RAID
+- 시스템 콜
 
 ### Spring
 - IOC, DI, AOP	
@@ -50,6 +53,7 @@
 - spring vs spring boot
 - Dispatcher Servlet 
 - maven, gradle
+- 라이브러리 vs 프레임워크
 
 ### Java
 - 접근제한자, 생성자, SOLID	
@@ -65,6 +69,7 @@
 - java version별 차이점
 - mutable vs immutable
 - 인터페이스와 추상클래스
+- 스네이크, 파스칼, 카멜 케이스
 
 ### Etc
 - GIT	
@@ -77,6 +82,7 @@
 - 비IT 동료와 효율적인 의사소통을 하기 위한 방법
 - 다른팀과 협업시 갈등이 있었을 때 어떤식으로 해결했는지
 - java와 c언어의 차이
+- 이루고 싶은 목표
 
 ### Algorithm
 - 정렬
@@ -84,6 +90,8 @@
 - 이진 탐색
 - tree
 - 동적 계획법 dp
+- O() 표기법
 
 ### 디자인 패턴
 - 싱글톤 패턴
+- 상태 패턴
