@@ -13,6 +13,7 @@
 - http 1, 2, 3
 - cast (broadcast, unicast, multicast 등..)
 - ipv4 vs ipv6
+- http status code
 
 ### Database
 - DB Index	
@@ -24,6 +25,9 @@
 - sql injection
 - 정규화
 - db view
+- rdbms vs nosql
+- 반정규화
+- mysql과 oracle의 차이점
 
 ### Operate System
 - 멀티프로세스와 멀티스레드 차이	
@@ -38,6 +42,7 @@
 - Critical Section
 - RAID
 - 시스템 콜
+- 표준 입력(STDIN), 표준 출력(STDOUT), 표준 에러(STDERR)
 
 ### Spring
 - IOC, DI, AOP	
@@ -70,6 +75,7 @@
 - mutable vs immutable
 - 인터페이스와 추상클래스
 - 스네이크, 파스칼, 카멜 케이스
+- final
 
 ### Etc
 - GIT	
@@ -95,3 +101,4 @@
 ### 디자인 패턴
 - 싱글톤 패턴
 - 상태 패턴
+- 프록시 패턴
